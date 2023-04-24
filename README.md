@@ -14,7 +14,7 @@ Used to Jinja2, Django templates, Liquid or Twig? You will feel right at home.
 
 ## How it works
 
-Use associated words to to read the template fields from a json file or a json object, like serde
+Use associated words to fill the fields from a json file or a json value, like serde
 ```
 <title>{% block title %}{% endblock title %}</title>
 <ul>
