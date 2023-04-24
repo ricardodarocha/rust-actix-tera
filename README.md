@@ -24,6 +24,9 @@ Use associated words to fill the fields from a json file or a json value, like s
 </ul>
 ```
 
+Check the templates folter, to create your own templates  
+Check the main function to see how to instantiate Tera
+
 ## Installation
 
 First check you have already Rust installed.  
