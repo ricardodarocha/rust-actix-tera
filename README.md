@@ -1,4 +1,4 @@
-# rust-actix-tera
+# rust & actix & tera example
 
 Tera is a **template engine** for **Rust** 
 Based on [Jinja2](http://jinja.pocoo.org/) and the [Django template](https://docs.djangoproject.com/en/3.1/topics/templates/) language.
